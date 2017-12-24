@@ -2,6 +2,9 @@
 
 Gtk+ Chart for DrawingArea widget with multiaxes, dates and cursors.
 
+Project Page: https://redmine.backbone.ws/projects/cairo-chart
+Git: https://git.backbone.ws/gtk/cairo-chart
+
 ## View YouTube movie
 
 [![View video](https://img.youtube.com/vi/wmZAw2csjQg/0.jpg)](https://www.youtube.com/watch?v=wmZAw2csjQg)
